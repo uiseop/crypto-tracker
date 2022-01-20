@@ -50,5 +50,5 @@
     "@types/react-helmet": "^6.1.5",
     "@types/styled-components": "^5.1.20"
   },
-  "homepage": "https://uiseop.github.io/crypto-tracker/"
+  "homepage": "https://uiseop.github.io/crypto-tracker"
 }
